@@ -9,6 +9,47 @@ The Mantodea Species File (MSF) is a taxonomic database of the world's praying m
 
 _Try searching for "{Aidae}", "{Aus}", "{Aus bus}"}, or start at [{Order}]({{app:project_url}}/otu/{id}/overview), [{Family}]({{app:project_url}}/otu/{id}/overview), or [{Genus}]({{app:project_url}}/otu/{id}/overview)._
 <img alt="Prohierodula picta" title="Prohierodula picta" src="http://Mantodea.archive.speciesfile.org/HomePage/Mantodea/img_logo/Prohierodula_picta.jpg" style="border-style: none;">
+<table>
+      <tbody><tr>
+         <td valign="top" style="width: 15%">
+            <img alt="Prohierodula picta" title="Prohierodula picta" src="img_logo/Prohierodula_picta.jpg" style="border-style: none;"><br>
+            <div style="text-align: center">
+               <em>Prohierodula picta</em> ♀</div>
+            <br>
+            <br>
+           </td>
+            <img alt="Eremiaphila arabica" title="Eremiaphila arabica" src="img_logo/Eremiaphila_arabica.jpg" style="border-style: none;"><br>
+            <div style="text-align: center">
+               <em>Eremiaphila arabica</em> ♀</div>
+            <br>
+            <br>
+            <img alt="Brancsikia aeroplana" title="Brancsikia aeroplana" src="img_logo/Brancsikia_aeroplana.jpg" style="border-style: none;"><br>
+        </td>
+            <div style="text-align: center">
+               <em>Brancsikia aeroplana</em> ♀</div>
+         </td>
+                     <table>
+                        <tbody><tr>
+                           <td>
+                              <img alt="Idolomantis diabolica" title="Idolomantis diabolica" src="img_logo/Idolomantis_diabolica.jpg" style="border-style: none;"><br>
+                              <div style="text-align: center">
+                                 <em>Idolomantis diabolica</em> ♂</div>
+                           </td>
+                           <td>
+                              <img alt="Metallyticus splendidus" title="Metallyticus splendidus" src="img_logo/Metallyticus_splendidus.jpg" style="border-style: none;"><br>
+                              <div style="text-align: center">
+                                 <em>Metallyticus splendidus</em> ♀</div>
+                           </td>
+               <img alt="Hierodula majuscula" title="Hierodula majuscula" src="img_logo/Hierodula_majuscula.jpg" style="border-style: none;"><br>
+               <div style="text-align: center">
+                  <em>Hierodula majuscula</em> ♀</div>
+                        </tr>
+                     </tbody></table>
+                  </td>
+               </tr>
+            </tbody></table>
+      </tr>
+   </tbody></table>
 ## Discover more
 Our [About](about) page contains an [overview](about#overview) and [history](about#history) of the project, its data and [gaps](about#gaps-as-opportunity),<D-r> and information about the [team](about#team) and how _you_ can [contribute](about#contribute-or-get-help). You can also [contact us](about#contribute-or-get-help) or [get help](about#contribute-or-get-help). 
 
