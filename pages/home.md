@@ -12,10 +12,10 @@ _Try searching for "{Aidae}", "{Aus}", "{Aus bus}"}, or start at [{Order}]({{app
     <tbody>
         <tr>
             <td>
+                <div style="text-align: left">
                 <img alt="Prohierodula picta" title="Prohierodula picta"
                     src="http://Mantodea.archive.speciesfile.org/HomePage/Mantodea/img_logo/Prohierodula_picta.jpg"
                     style="border-style: none;"><br>
-                <div style="text-align: center">
                     <em>Prohierodula picta</em> ♀
                 </div>
             </td>
@@ -23,7 +23,7 @@ _Try searching for "{Aidae}", "{Aus}", "{Aus bus}"}, or start at [{Order}]({{app
                 <img alt="Eremiaphila arabica" title="Eremiaphila arabica"
                     src="http://Mantodea.archive.speciesfile.org/HomePage/Mantodea/img_logo/Eremiaphila_arabica.jpg"
                     style="border-style: none;"><br>
-                <div style="text-align: center">
+                <div style="text-align: left">
                     <em>Eremiaphila arabica</em> ♀
                 </div>
             </td>
@@ -31,7 +31,7 @@ _Try searching for "{Aidae}", "{Aus}", "{Aus bus}"}, or start at [{Order}]({{app
                 <img alt="Brancsikia aeroplana" title="Brancsikia aeroplana"
                     src="http://Mantodea.archive.speciesfile.org/HomePage/Mantodea/img_logo/Brancsikia_aeroplana.jpg"
                     style="border-style: none;"><br>
-                <div style="text-align: center">
+                <div style="text-align: left">
                     <em>Brancsikia aeroplana</em> ♀
                 </div>
             </td>
@@ -41,7 +41,7 @@ _Try searching for "{Aidae}", "{Aus}", "{Aus bus}"}, or start at [{Order}]({{app
                 <img alt="Idolomantis diabolica" title="Idolomantis diabolica"
                     src="http://Mantodea.archive.speciesfile.org/HomePage/Mantodea/img_logo/Idolomantis_diabolica.jpg"
                     style="border-style: none;"><br>
-                <div style="text-align: center">
+                <div style="text-align: left">
                     <em>Idolomantis diabolica</em> ♂
                 </div>
             </td>
@@ -49,7 +49,7 @@ _Try searching for "{Aidae}", "{Aus}", "{Aus bus}"}, or start at [{Order}]({{app
                 <img alt="Metallyticus splendidus" title="Metallyticus splendidus"
                     src="http://Mantodea.archive.speciesfile.org/HomePage/Mantodea/img_logo/Metallyticus_splendidus.jpg"
                     style="border-style: none;"><br>
-                <div style="text-align: center">
+                <div style="text-align: left">
                     <em>Metallyticus splendidus</em> ♀
                 </div>
             </td>
@@ -57,7 +57,7 @@ _Try searching for "{Aidae}", "{Aus}", "{Aus bus}"}, or start at [{Order}]({{app
                 <img alt="Hierodula majuscula" title="Hierodula majuscula"
                     src="http://Mantodea.archive.speciesfile.org/HomePage/Mantodea/img_logo/Hierodula_majuscula.jpg"
                     style="border-style: none;"><br>
-                <div style="text-align: center">
+                <div style="text-align: left">
                     <em>Hierodula majuscula</em> ♀
                 </div>
             </td>
