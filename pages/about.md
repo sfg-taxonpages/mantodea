@@ -13,7 +13,7 @@ The Earth's biodiversity is vast, the data captured to describe it are minimal i
 ## History
 _Our old website is now a read-only resource available at [http://{{app:focal_taxon}}.archive.speciesfile.org](http://{{app:focal_taxon}}.archive.speciesfile.org)._
 
-{How did this specific SF group come to be? When did we start our efforts? What are the historically important catalogs behind these data. Potentially linked to a shared history at sfg.org if we get that done.}
+This database originated with Otte and Spearman`s (2005) Mantida Species File catalog but is now following the classification of Schwarz & Roy (2019).  The original website begain in April, 2007.
 
 As of August 2023 all data in the former Species File Websites were frozen and shortly thereafter migrated to TaxonWorks. As with all migrations of this nature the process is both lossy (e.g. some data could not be mapped with certainty) and improved (e.g. semantics of the new models have more precision and clarity). The old website remains an excellent resource for fact-checking this migration. If you spot something that needs attention, please see [Contribute or get help](#contribute-or-get-help).
 
@@ -29,14 +29,12 @@ Or Funding needed to publish our latest information ... or address data gaps
 
 ## Contributors
 
-|name|role|
-|----|----|
-| First name Last Name | Author |
-| First name Last Name\* | Author |
-| First name Last Name | Editor |
-| First name Last Name | TaxonWorks Project Manager |
-| First name Last Name | Developer |
-| First name Last Name | Community contributor |
+|name|role|organization|
+|----|----|------------|
+| Lauren Spearman | Senior Author | Rutgers University, Department of Ecology and Evolution |
+| Martin B. D. Stiewe | Co-author and Editor | Scientific Associate, The Natural History Museum, London |
+| Daniel Otte | Senior Author | Academy of Natural Sciences of Philadelphia |
+| David C. Eades | Species File Group Founder | Illinois Natural History Survey |
 
 _A \* denotes a past contributor, now inactive._
 
