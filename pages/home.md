@@ -47,7 +47,7 @@ _Try searching for "{Aidae}", "{Aus}", "{Aus bus}"}, or start at [{Order}]({{app
             </td>
             <td>
                 <img alt="Metallyticus splendidus" title="Metallyticus splendidus"
-                    src="http://Mantodea.archive.speciesfile.org/HomePage/Mantodea/img_logo/Metallyticus_splendidus.jpg"
+                    src="https://sfg.taxonworks.org/s/tjou0z"
                     style="border-style: none;"><br>
                 <div style="text-align: left">
                     <em>Metallyticus splendidus</em> ♀
