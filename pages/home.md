@@ -14,14 +14,14 @@ _Try searching for "{Aidae}", "{Aus}", "{Aus bus}"}, or start at [{Order}]({{app
             <td>
                 <div style="text-align: left">
                 <img alt="Prohierodula picta" title="Prohierodula picta"
-                    src="http://Mantodea.archive.speciesfile.org/HomePage/Mantodea/img_logo/Prohierodula_picta.jpg"
+                    src="https://sfg.taxonworks.org/s/3horgh"
                     style="border-style: none;"><br>
                     <em>Prohierodula picta</em> ♀
                 </div>
             </td>
             <td>
                 <img alt="Eremiaphila arabica" title="Eremiaphila arabica"
-                    src="http://Mantodea.archive.speciesfile.org/HomePage/Mantodea/img_logo/Eremiaphila_arabica.jpg"
+                    src="https://sfg.taxonworks.org/s/6luy9n"
                     style="border-style: none;"><br>
                 <div style="text-align: left">
                     <em>Eremiaphila arabica</em> ♀
@@ -29,7 +29,7 @@ _Try searching for "{Aidae}", "{Aus}", "{Aus bus}"}, or start at [{Order}]({{app
             </td>
             <td>
                 <img alt="Brancsikia aeroplana" title="Brancsikia aeroplana"
-                    src="http://Mantodea.archive.speciesfile.org/HomePage/Mantodea/img_logo/Brancsikia_aeroplana.jpg"
+                    src="https://sfg.taxonworks.org/s/51euq8"
                     style="border-style: none;"><br>
                 <div style="text-align: left">
                     <em>Brancsikia aeroplana</em> ♀
@@ -39,7 +39,7 @@ _Try searching for "{Aidae}", "{Aus}", "{Aus bus}"}, or start at [{Order}]({{app
         <tr>
             <td>
                 <img alt="Idolomantis diabolica" title="Idolomantis diabolica"
-                    src="http://Mantodea.archive.speciesfile.org/HomePage/Mantodea/img_logo/Idolomantis_diabolica.jpg"
+                    src="https://sfg.taxonworks.org/s/o8371j"
                     style="border-style: none;"><br>
                 <div style="text-align: left">
                     <em>Idolomantis diabolica</em> ♂
@@ -55,7 +55,7 @@ _Try searching for "{Aidae}", "{Aus}", "{Aus bus}"}, or start at [{Order}]({{app
             </td>
             <td>
                 <img alt="Hierodula majuscula" title="Hierodula majuscula"
-                    src="http://Mantodea.archive.speciesfile.org/HomePage/Mantodea/img_logo/Hierodula_majuscula.jpg"
+                    src="https://sfg.taxonworks.org/s/pvb2j1"
                     style="border-style: none;"><br>
                 <div style="text-align: left">
                     <em>Hierodula majuscula</em> ♀
