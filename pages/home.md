@@ -5,7 +5,7 @@
 # {{ app:project_name }}
 The Mantodea Species File (MSF) is a taxonomic database of the world's praying mantids (Order Mantodea), both of fossil and living species. The MSF has full synonymic and taxonomic information for over 2,400 valid species. A future aim of this database is to provide images of the specimens deposited in museums worldwide (especially types), as well as pictures of living praying mantids in the wild and in captivity.
 
-<autocomplete-otu class="w-80 place-content-center" placeholder="Search by taxon name"/>
+<autocomplete-otu class="w-full sm:w-96" placeholder="Search by taxon name"/>
 
 _Try searching for "{Aidae}", "{Aus}", "{Aus bus}"}, or start at [{Order}]({{app:project_url}}/otus/{id}/overview), [{Family}]({{app:project_url}}/otus/{id}/overview), or [{Genus}]({{app:project_url}}/otus/{id}/overview)._
 <table>
